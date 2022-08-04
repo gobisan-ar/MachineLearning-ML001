@@ -12,3 +12,12 @@
   ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 </div>
 
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=f9fG2KdXvbQ&list=PLUohftZp9uLlJWI_4A0HWkOdDBKYUjWqt&ab_channel=CeylonRanking">Learning Resources</a>
+  <br><br>
+  
+  ### Content
+  <ul type="1">
+    <li> <a href="">Linear_Regression</a> - Predict sum of two numbers using machine learning.</li>
+  </ul>
+</div>
