@@ -14,7 +14,7 @@
 
 <div align="left">
   <a href="https://www.youtube.com/watch?v=f9fG2KdXvbQ&list=PLUohftZp9uLlJWI_4A0HWkOdDBKYUjWqt&ab_channel=CeylonRanking">Learning Resources</a>
-  <br><br>
+  <br>
   
   ### Content
   <ul type="1">
