@@ -24,7 +24,7 @@
     </li>
     <li> 
       <a href="https://github.com/gobisan14/MachineLearning-ML001/tree/main/02-Tensors">Tensors</a> - 
-      Scaler, Vector and Matrix.
+      1D, 2D and 3D Tensors.
     </li>
   </ul>
 </div>
