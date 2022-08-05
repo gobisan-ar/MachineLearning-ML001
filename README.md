@@ -22,5 +22,9 @@
       <a href="https://github.com/gobisan14/MachineLearning-ML001/tree/main/01-Linear_Regression">Linear Regression</a> - 
       Predict sum of two numbers using machine learning.
     </li>
+    <li> 
+      <a href="    https://github.com/gobisan14/MachineLearning-ML001/tree/main/02-Tensors">Tensors</a> - 
+      Scaler, Vector and Matrix.
+    </li>
   </ul>
 </div>
