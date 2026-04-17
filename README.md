@@ -22,7 +22,6 @@
     </li>
     <li> 
       <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/02 Classifiers/2.Summary.ipynb">Classifiers</a>
-      Classifiers
     </li>
   </0l>
 </div>
