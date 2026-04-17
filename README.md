@@ -18,8 +18,8 @@
   ### Content
   <ul type="1">
     <li> 
-      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/Archived">Archived</a> - 
-      Archived Notebooks.
+      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/01 Simple Classification Algorthms/ 1.Summary">Simple Classification Algorthms</a> - 
+      Simple Classification Algorthms.
     </li>
   </ul>
 </div>
