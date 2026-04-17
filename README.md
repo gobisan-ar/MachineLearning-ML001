@@ -21,5 +21,10 @@
       <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/01 Simple Classification Algorithms/1.Summary.ipynb">Simple Classification Algorthms</a> - 
       Simple Classification Algorthms.
     </li>
+
+    <li> 
+      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/02 Classifiers/2.Summary.ipynb">Classifiers</a> - 
+      Simple Classification Algorthms.
+    </li>
   </ul>
 </div>
