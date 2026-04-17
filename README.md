@@ -18,7 +18,7 @@
   ### Content
   <ul type="1">
     <li> 
-      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/01 Simple Classification Algorthms/1.Summary.ipynb">Simple Classification Algorthms</a> - 
+      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/01 Simple Classification Algorithms/1.Summary.ipynb">Simple Classification Algorthms</a> - 
       Simple Classification Algorthms.
     </li>
   </ul>
