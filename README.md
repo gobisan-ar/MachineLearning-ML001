@@ -24,7 +24,7 @@
       <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/02 Classifiers/2.0.Summary.ipynb">Classifiers</a>
     </li>
     <li> 
-      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/03 Data Preproccessing/3.0.summary.ipynb">Data Preproccessing</a>
+      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/03 Data Preprocessing/3.0.summary.ipynb">Data Preprocessing</a>
     </li>
   </0l>
 </div>
