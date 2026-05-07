@@ -18,10 +18,13 @@
   ### Content
   <ol type="1">
     <li> 
-      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/01 Simple Classification Algorithms/1.Summary.ipynb">Simple Classification Algorthms</a>
+      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/01 Simple Classification Algorithms/1.0.Summary.ipynb">Simple Classification Algorthms</a>
     </li>
     <li> 
-      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/02 Classifiers/2.Summary.ipynb">Classifiers</a>
+      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/02 Classifiers/2.0.Summary.ipynb">Classifiers</a>
+    </li>
+    <li> 
+      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/02 Data Preproccessing/3.0.Summary.ipynb">Classifiers</a>
     </li>
   </0l>
 </div>
