@@ -30,7 +30,7 @@
     <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/04 Dimensionality Reduction/4.0.summary.ipynb">Dimensionality Reduction</a>
   </li>
   <li> 
-    <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/05 Best Practices - Hyperparameter Tuning/5.0.summary.ipynb">Best Practices - Hyperparameter Tuning</a>
+    <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/05 Best Practices - Hyperparameter Tuning & Evaluation/5.0.summary.ipynb">Best Practices - Hyperparameter Tuning & Evaluation</a>
   </li>
 </ol>
 
