@@ -26,5 +26,14 @@
     <li> 
       <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/03 Data Preprocessing/3.0.summary.ipynb">Data Preprocessing</a>
     </li>
+    <li> 
+      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/04 Dimensionality Reduction/4.0.summary.ipynb">Dimensionality Reduction</a>
+    </li>
+    <li> 
+      <a href="https://github.com/gobisan-ar/MachineLearning-ML001/tree/main/05 Best Practices - Hyperparameter Tuning/5.0.summary.ipynb">Best Practices - Hyperparameter Tuning</a>
+    </li>
   </0l>
 </div>
+
+### Reference
+![Machine Learning with PyTorch and Scikit-Learn]([https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white](https://github.com/rasbt/machine-learning-book))
